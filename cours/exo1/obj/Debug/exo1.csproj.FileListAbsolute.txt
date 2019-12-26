@@ -1,0 +1,6 @@
+C:\Users\vincc\source\repos\cours\cours\bin\Debug\cours.exe.config
+C:\Users\vincc\source\repos\cours\cours\bin\Debug\cours.exe
+C:\Users\vincc\source\repos\cours\cours\bin\Debug\cours.pdb
+C:\Users\vincc\source\repos\cours\cours\obj\Debug\exo1.csprojAssemblyReference.cache
+C:\Users\vincc\source\repos\cours\cours\obj\Debug\cours.exe
+C:\Users\vincc\source\repos\cours\cours\obj\Debug\cours.pdb

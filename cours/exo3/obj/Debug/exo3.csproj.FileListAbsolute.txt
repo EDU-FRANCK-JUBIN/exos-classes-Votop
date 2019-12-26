@@ -1,0 +1,6 @@
+C:\Users\vincc\Documents\Developpement\cours\exos-classes-Votop\cours\exo3\bin\Debug\exo3.exe.config
+C:\Users\vincc\Documents\Developpement\cours\exos-classes-Votop\cours\exo3\bin\Debug\exo3.exe
+C:\Users\vincc\Documents\Developpement\cours\exos-classes-Votop\cours\exo3\bin\Debug\exo3.pdb
+C:\Users\vincc\Documents\Developpement\cours\exos-classes-Votop\cours\exo3\obj\Debug\exo3.csprojAssemblyReference.cache
+C:\Users\vincc\Documents\Developpement\cours\exos-classes-Votop\cours\exo3\obj\Debug\exo3.exe
+C:\Users\vincc\Documents\Developpement\cours\exos-classes-Votop\cours\exo3\obj\Debug\exo3.pdb
